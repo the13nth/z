@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "c9a816a5f04df570",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f6ff8728f82e0d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad43e259f2a07af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52507e7f7b95dd4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f689da20fd872dc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0de17476c4f3a11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4f9ccdc219101c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcd885d2d2a4db10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8e263dd9cab8fdaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8849971c14992578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad7da9f1c5909edd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0518e296d0c9b136",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "553875bbf9b4d365",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f567d08134a903f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md"
+              }
+            }
+          },
+          {
+            "id": "c5e29d2d2b0c8deb",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a0de17476c4f3a11",
+  "lastOpenFiles": [
+    "README.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Tourists.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Local vendors.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Government Agencies.md",
+    "African_Tourism_Platform_Updated/Team Vision.md",
+    "African_Tourism_Platform_Updated/Problem Statement.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Technology Providers.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Financial Institutions.md",
+    "African_Tourism_Platform_Updated/Customer Discovery.md",
+    "Untitled.canvas",
+    "Screenshot from 2024-09-03 15-25-12.png",
+    "African_Tourism_Platform_Updated/Stakeholders/Tourism Organizations.md",
+    "African_Tourism_Platform_Updated/Customer Discovery.md",
+    "African_Tourism_Platform_Updated/Solution Discovery.md",
+    "Stack.md",
+    "African_Tourism_Platform_Updated/Stakeholders",
+    "App design",
+    "Welcome.md",
+    "African_Tourism_Platform_Updated/README.md",
+    "African_Tourism_Platform_Updated",
+    "African_Tourism_Platform_Updated.zip"
+  ]
+}
