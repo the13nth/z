@@ -4,7 +4,9 @@
 
 **Core Problem:**
 
-Local vendors in Africa's tourism industry face significant challenges in accessing global markets. This limits their ability to fully capitalize on tourism revenues and expand their businesses, hindering their economic growth and potential contribution to the national economy.
+Local businesses in Africa's tourism industry face significant challenges in accessing global markets. This limits their ability to fully capitalize on tourism revenues and expand their businesses, hindering their economic growth and potential contribution to the national economy.
+Potential update
+The tourism industry in Africa, while holding immense potential for economic growth and poverty alleviation, faces the critical challenge of **significant revenue leakage**. This leakage, stemming from factors such as import reliance, foreign ownership, and limited local participation, hinders the ability of local businesses to fully benefit from tourism and contribute to national economic development. The challenge lies in creating a more inclusive and equitable tourism model that maximizes benefits for local communities and minimizes financial outflows.
 
 **Key Points:**
 
@@ -21,9 +23,12 @@ Local vendors in Africa's tourism industry face significant challenges in access
 
 **Next Steps:**
 
-* **Identify Key [[Stakeholders]]
+* **Identify Key Stakeholders
 
 * **Conduct In-Depth Research:** Gather data on the specific challenges faced by local vendors, market opportunities, and potential solutions.
 * **Develop a Comprehensive Strategy:**  Create a multi-faceted approach that addresses the technological, logistical, and infrastructural barriers hindering local vendors' access to global markets.
 * **Implement Pilot Projects:**  Test and refine solutions on a smaller scale before widespread implementation.
 * **Monitor and Evaluate:** Continuously assess the impact of interventions and make adjustments as needed.
+
+[[Team Vision]]
+[[11007IIED-1.pdf]]

@@ -1,3 +1,7 @@
-[[Financial Institutions]]
-[[Stakeholders]]
+Linked Organisations:
+
+
 [[Government Agencies]]
+[[Local vendors]]
+[[Stakeholders]]
+[[Communities]]

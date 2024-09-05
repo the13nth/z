@@ -8,3 +8,5 @@ Tourism has the potential to be a powerful force for economic development, cultu
 By embracing the talents and aspirations of local vendors, artisans, and entrepreneurs, we can create a tourism experience that is both authentic and sustainable . This approach not only generates economic opportunities for those who need it most but also fosters a sense of pride and ownership within the community  [[Problem Statement]] . It ensures that the benefits of tourism are shared equitably, contributing to a more vibrant and resilient local economy.
 
 
+[[Stakeholders]]
+[[Local vendors]]

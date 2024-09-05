@@ -1,3 +1,8 @@
-[[Tourism Organizations]]
-[[Stakeholders]]
+Linked Organisations:
+
+
 [[Government Agencies]]
+[[Tourists]]
+[[Local vendors]]
+[[Stakeholders]]
+[[Communities]]

@@ -1,4 +1,9 @@
 [
+  "3d-graph",
+  "3d-graph-new",
   "persistent-graph",
-  "graph-analysis"
+  "graph-analysis",
+  "mochi-cards-exporter",
+  "smart-connections",
+  "obsidian-graphviz"
 ]

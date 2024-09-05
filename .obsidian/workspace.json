@@ -11,13 +11,52 @@
             "id": "ad43e259f2a07af1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            },
+            "group": "17baca2161518623"
+          }
+        ]
+      },
+      {
+        "id": "87c107f67068e232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "310468bf63283746",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md",
-                "mode": "source",
-                "source": false
+                "file": "African_Tourism_Platform_Updated/Stakeholders/Local vendors.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
               }
-            }
+            },
+            "group": "17baca2161518623"
           }
         ]
       }
@@ -69,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 355.5
   },
   "right": {
     "id": "8e263dd9cab8fdaa",
@@ -85,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,21 +190,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0de17476c4f3a11",
+  "active": "ad43e259f2a07af1",
   "lastOpenFiles": [
-    "README.md",
-    "African_Tourism_Platform_Updated/Stakeholders/Tourists.md",
     "African_Tourism_Platform_Updated/Stakeholders/Local vendors.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Tourism Organizations.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Tourists.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Communities.md",
+    "African_Tourism_Platform_Updated/Problem Statement.md",
+    "African_Tourism_Platform_Updated/11007IIED-1.pdf",
     "African_Tourism_Platform_Updated/Stakeholders/Stakeholders.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Financial Institutions.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Insurance companies.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Logistics companies.md",
+    "African_Tourism_Platform_Updated/Stakeholders/Technology Providers.md",
     "African_Tourism_Platform_Updated/Stakeholders/Government Agencies.md",
     "African_Tourism_Platform_Updated/Team Vision.md",
-    "African_Tourism_Platform_Updated/Problem Statement.md",
-    "African_Tourism_Platform_Updated/Stakeholders/Technology Providers.md",
-    "African_Tourism_Platform_Updated/Stakeholders/Financial Institutions.md",
+    "README.md",
     "African_Tourism_Platform_Updated/Customer Discovery.md",
     "Untitled.canvas",
     "Screenshot from 2024-09-03 15-25-12.png",
-    "African_Tourism_Platform_Updated/Stakeholders/Tourism Organizations.md",
     "African_Tourism_Platform_Updated/Customer Discovery.md",
     "African_Tourism_Platform_Updated/Solution Discovery.md",
     "Stack.md",

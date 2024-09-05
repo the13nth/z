@@ -25,7 +25,6 @@
 * Key to enabling online sales and reaching a global audience.
 
 [[Tourists]]
-
 * Domestic and international visitors who contribute to the tourism industry's revenue.
 * Increasingly interested in authentic experiences and locally-made products.
 * Their choices and preferences can influence the market and create opportunities for local vendors.
@@ -36,3 +35,14 @@
 * Banks, microfinance institutions, and other providers of financial services.
 * Can offer loans and financial support to help local vendors expand their businesses and access new markets.
 * Play a role in ensuring financial inclusion and empowering local entrepreneurs.
+
+[[Insurance companies]]
+
+
+[[Logistics companies]]
+
+
+[[Communities]]
+
+
+[[Team Vision]]
